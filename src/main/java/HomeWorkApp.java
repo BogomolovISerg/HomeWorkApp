@@ -39,6 +39,7 @@ public class HomeWorkApp {
             System.out.println("Зеленый");
     }
 
+
     public static void compareNumbers(){
         int a = 5, b = 7;
         System.out.println("\nclass \"compareNumbers\"");
